@@ -1,0 +1,3 @@
+# PIC32MM_RTCC_ADJUST
+PIC32MMのLPRCのばらつきが大きいので発振周波数を求めてから
+RTCCのクロック源にする
